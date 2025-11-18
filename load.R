@@ -5,6 +5,9 @@ library(rmarkdown)
 library(janitor)
 library(ckanr)
 
+run_start_time <- now()
+paste("Start time:", run_start_time)
+
 if(file_exists(".env")) {
   readRenviron(".env")
   
@@ -112,3 +115,9 @@ output |>
   write_csv(
     file = "output/resources_by_dataset.csv"
   )
+
+run_end_time <- now()
+paste("Start time was:", run_start_time)
+paste("End time was:", run_end_time)
+
+paste("Elapsed time was", round(time_length(interval(run_start_time, run_end_time), "hours"), digits = 2), "hours")
