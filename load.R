@@ -14,9 +14,13 @@ if(file_exists(".env")) {
   ckan_url <- Sys.getenv("ckan_url")
   ckan_api_token <- Sys.getenv("ckan_api_token")
   
+} else {
+  stop("No .env file found, create it before running this script.")
 }
 
+# How many datasets to retrive per API call
 offset_increment = 100
+# When to stop (as a safety buffer or for testing, if you're missing results you may need to bump this up!)
 max_runs = 100
 
 ckanr_setup(
@@ -24,12 +28,7 @@ ckanr_setup(
   key = ckan_api_token
   )
 
-# dashboard_activity_list()
-
-# results <- package_list()
-
-# results <- package_list_current(as = 'table')
-
+# Retrieve a set of CKAN packages (datasets or publications)
 get_package_resource_totals <- function(offset = 0, offset_increment = 10) {
   
   # Fields to keep
@@ -61,6 +60,7 @@ get_package_resource_totals <- function(offset = 0, offset_increment = 10) {
 current_offset <- 0
 run_count <- 0
 
+# Loop through API requests, increasing the offset to retrieve the entire collection in the CKAN instance
 loop_get_package_resource_totals <- function() {
   
   while(run_count <= max_runs) {
@@ -87,6 +87,7 @@ loop_get_package_resource_totals <- function() {
     current_offset <- current_offset + offset_increment
     run_count <- run_count + 1
     
+    # Be gentle to the CKAN API between requests!
     Sys.sleep(0.5)
     
   }
@@ -96,20 +97,10 @@ loop_get_package_resource_totals <- function() {
 }
 
 
-# Max amount
-
-
-# output <- get_package_resource_totals()
-# 
-# View(output)
-# 
-# example_output <- package_list_current(as = "table", offset = 3600, limit = 100)
-# length(example_output)
-
+# Get all packages (across all dataset and publication types) and combine them into one table:
 output <- loop_get_package_resource_totals()
 
 # View(output)
-
 
 output |> 
   write_csv(
