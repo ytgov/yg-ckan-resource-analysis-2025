@@ -1,9 +1,5 @@
-library(tidyverse)
-library(fs)
-library(readxl)
-library(rmarkdown)
-library(janitor)
-library(ckanr)
+# Libraries are loaded from the helpers.R file
+source("lib/helpers.R")
 
 run_start_time <- now()
 paste("Start time:", run_start_time)
@@ -88,7 +84,7 @@ loop_get_package_resource_totals <- function() {
     run_count <- run_count + 1
     
     # Be gentle to the CKAN API between requests!
-    Sys.sleep(0.5)
+    Sys.sleep(0.3)
     
   }
 
@@ -103,6 +99,7 @@ output <- loop_get_package_resource_totals()
 # View(output)
 
 output |> 
+  arrange(desc(metadata_created)) |> 
   write_csv(
     file = "output/resources_by_dataset.csv"
   )
