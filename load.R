@@ -42,12 +42,12 @@ get_package_resource_totals <- function(offset = 0, offset_increment = 10) {
   }
   
   results <- results |> 
-    select(id, name, title, num_resources, type, organization, metadata_created, metadata_modified) |> 
+    select(id, name, title, num_resources, type, organization, metadata_created, metadata_modified, visits, visit_90_days, downloads, download_90_days) |> 
     unnest(
       organization,
       names_sep = "_"
     ) |> 
-    select(id, name, title, num_resources, type, organization_name, metadata_created, metadata_modified)
+    select(id, name, title, num_resources, type, organization_name, metadata_created, metadata_modified, visits, visit_90_days, downloads, download_90_days)
   
   results  
   
