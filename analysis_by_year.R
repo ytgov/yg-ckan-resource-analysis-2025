@@ -53,6 +53,32 @@ packages_by_type_by_year <- output |>
     resources = sum(num_resources)
   )
 
+# Usage stats from Matomo on a per-package basis
+packages_by_visits_and_downloads <- output |> 
+  select(
+    !id
+  ) |> 
+  select(
+    name,
+    title,
+    starts_with("visit"),
+    starts_with("download"),
+    everything()
+  ) |> 
+  mutate(
+    visits = as.integer(visits),
+    visit_90_days = as.integer(visit_90_days),
+    downloads = as.integer(downloads),
+    download_90_days = as.integer(download_90_days)
+  ) |> 
+  rename(
+    resources = "num_resources"
+  ) |> 
+  arrange(
+    desc(visits),
+    desc(downloads),
+    desc(metadata_modified)
+  )
 
 
 # Write files out to CSV --------------------------------------------------
@@ -70,4 +96,7 @@ packages_by_type_by_year_by_org |>
 
 packages_by_type_by_year |> 
   write_out_csv("packages_by_type_by_year")
+
+packages_by_visits_and_downloads |> 
+  write_out_csv("packages_by_visits_and_downloads")
 
