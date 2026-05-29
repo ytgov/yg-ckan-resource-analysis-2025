@@ -49,6 +49,15 @@ get_package_resource_totals <- function(offset = 0, offset_increment = 10) {
     ) |> 
     select(id, name, title, num_resources, type, organization_name, metadata_created, metadata_modified, visits, visit_90_days, downloads, download_90_days)
   
+  # Factor in the ZIP files for download-all (every package has +1 more resource than real life)
+  results <- results |> 
+    mutate(
+      num_resources = case_when(
+        num_resources > 0 ~ num_resources - 1,
+        .default = 0
+      )
+    )
+  
   results  
   
 }
