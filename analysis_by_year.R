@@ -56,7 +56,14 @@ packages_by_type_by_year <- output |>
 # Usage stats from Matomo on a per-package basis
 packages_by_visits_and_downloads <- output |> 
   select(
-    !id
+    !any_of(
+      c(
+        "id",
+        "update_frequency",
+        "publication_required_under_atipp_act",
+        "publication_type_under_atipp_act"
+      )
+    )
   ) |> 
   select(
     name,
@@ -80,6 +87,25 @@ packages_by_visits_and_downloads <- output |>
     desc(metadata_modified)
   )
 
+packages_by_scoring_evaluation_criteria <- output |> 
+  select(
+    !any_of(
+      c(
+        "id",
+        "visits",
+        "visit_90_days",
+        "downloads",
+        "download_90_days"
+      )
+    )
+  ) |> 
+  select(
+    name,
+    title,
+    everything()
+  ) 
+
+resources_by_scoring_evaluation_criteria <- output_resources
 
 # Write files out to CSV --------------------------------------------------
 
@@ -100,3 +126,8 @@ packages_by_type_by_year |>
 packages_by_visits_and_downloads |> 
   write_out_csv("packages_by_visits_and_downloads")
 
+packages_by_scoring_evaluation_criteria |> 
+  write_out_csv("packages_by_scoring_evaluation_criteria")
+
+resources_by_scoring_evaluation_criteria |> 
+  write_out_csv("resources_by_scoring_evaluation_criteria")

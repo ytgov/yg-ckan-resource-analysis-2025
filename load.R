@@ -14,6 +14,8 @@ if(file_exists(".env")) {
   stop("No .env file found, create it before running this script.")
 }
 
+paste("Instance URL:", ckan_url)
+
 # How many datasets to retrive per API call
 offset_increment = 100
 # When to stop (as a safety buffer or for testing, if you're missing results you may need to bump this up!)
@@ -42,12 +44,34 @@ get_package_resource_totals <- function(offset = 0, offset_increment = 10) {
   }
   
   results <- results |> 
-    select(id, name, title, num_resources, type, organization, metadata_created, metadata_modified, visits, visit_90_days, downloads, download_90_days) |> 
+    # select(id, name, title, num_resources, type, organization, metadata_created, metadata_modified, visits, visit_90_days, downloads, download_90_days) |> 
     unnest(
       organization,
       names_sep = "_"
     ) |> 
-    select(id, name, title, num_resources, type, organization_name, metadata_created, metadata_modified, visits, visit_90_days, downloads, download_90_days)
+    select(
+      id, 
+      name, 
+      title, 
+      num_resources, 
+      type, 
+      organization_name, 
+      metadata_created, 
+      metadata_modified, 
+      visits, 
+      visit_90_days, 
+      downloads, 
+      download_90_days,
+      any_of(
+        c(
+          "update_frequency",
+          "publication_required_under_atipp_act",
+          "publication_type_under_atipp_act"
+        )
+      ),
+      resources
+
+      )
   
   # Factor in the ZIP files for download-all (every package has +1 more resource than real life)
   results <- results |> 
@@ -105,13 +129,60 @@ loop_get_package_resource_totals <- function() {
 # Get all packages (across all dataset and publication types) and combine them into one table:
 output <- loop_get_package_resource_totals()
 
+# Retrieve all the contained resources
+
+output_resources <- output |> 
+  unnest(
+    cols = any_of("resources"),
+    names_sep = "_"
+  )
+
+output_resources <- output_resources |> 
+  filter(
+    resources_state == "active",
+    is.na(resources_downloadall_datapackage_hash)
+  ) |> 
+  select(
+    resources_name,
+    resources_description,
+    resources_format,
+    resources_created,
+    resources_metadata_modified,
+    resources_last_modified,
+    resources_url,
+    resources_url_type,
+    name,
+    title,
+    organization_name,
+    metadata_created,
+    metadata_modified,
+    update_frequency,
+    publication_required_under_atipp_act,
+    publication_type_under_atipp_act
+  ) |> 
+  arrange(
+    organization_name,
+    name,
+    resources_name
+  ) |> 
+  rename(
+    dataset_name = "name",
+    dataset_title = "title"
+  )
+
+# Skip the "resources" column from the rest of the output:
+output <- output |> 
+  select(
+    ! resources
+  )
+
 # View(output)
 
-output |> 
-  arrange(desc(metadata_created)) |> 
-  write_csv(
-    file = "output/resources_by_dataset.csv"
-  )
+# output |> 
+#   arrange(desc(metadata_created)) |> 
+#   write_csv(
+#     file = "output/resources_by_dataset.csv"
+#   )
 
 run_end_time <- now()
 paste("Start time was:", run_start_time)
