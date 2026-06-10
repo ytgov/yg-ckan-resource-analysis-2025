@@ -69,17 +69,7 @@ detect_department_from_resource_name <- function(resource_name) {
     select(organization_name) |> 
     first() |> 
     pull(organization_name)
-  
-  # for (i in seq_along(organization_name_mapping$organization_label)) { 
-  #   
-  #   if(str_detect(resource_name, organization_name_mapping$organization_label[i])) {
-  #     # Returns e.g. "highways-and-public-works"
-  #     return(organization_name_mapping$organization_name[i])
-  #   }
-  # }
-    
-    
-  
+
 }
 
 # Add a matching department to ATIPP Office publications
@@ -103,9 +93,4 @@ resources <- resources |>
     )
   )
 
-# resources <- resources |>
-#   mutate(
-#     derived_organization_name_from_resource_name = map_chr(
-#       resources_name, detect_department_from_resource_name
-#     )
-#   )
+
