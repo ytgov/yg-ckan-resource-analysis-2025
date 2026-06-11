@@ -1,8 +1,8 @@
 name,title,num_resources,type,organization_name,metadata_created,metadata_modified,update_frequency,publication_required_under_atipp_act,publication_type_under_atipp_act,year_created,year_modified
-yukon-liquor-corporation-retail-liquor-price-lists,Yukon Liquor Corporation retail liquor price lists,8,data,yukon-liquor-corporation,2026-05-29T20:32:15.556148,2026-06-10T21:26:51.731880,,,,2026,2026
-yukon-liquor-corporation-special-order-liquor-price-lists,Yukon Liquor Corporation special order liquor price lists,48,data,yukon-liquor-corporation,2026-05-28T20:38:03.353427,2026-06-10T21:26:49.022598,,,,2026,2026
-yukon-liquor-corporation-wholesale-liquor-price-lists,Yukon Liquor Corporation Wholesale liquor price lists,47,data,yukon-liquor-corporation,2026-05-04T15:53:03.811585,2026-06-10T21:26:44.464000,,,,2026,2026
-yukon-liquor-corporation-maximum-off-sales-liquor-price-lists,Yukon Liquor Corporation maximum off-sales liquor price lists,46,data,yukon-liquor-corporation,2026-05-28T20:36:54.176943,2026-06-10T21:26:41.117248,,,,2026,2026
+yukon-liquor-corporation-wholesale-liquor-price-lists,Yukon Liquor Corporation Wholesale liquor price lists,47,data,yukon-liquor-corporation,2026-05-04T15:53:03.811585,2026-06-11T19:49:26.717992,,,,2026,2026
+yukon-liquor-corporation-maximum-off-sales-liquor-price-lists,Yukon Liquor Corporation maximum off-sales liquor price lists,46,data,yukon-liquor-corporation,2026-05-28T20:36:54.176943,2026-06-11T19:49:23.398101,,,,2026,2026
+yukon-liquor-corporation-retail-liquor-price-lists,Yukon Liquor Corporation retail liquor price lists,8,data,yukon-liquor-corporation,2026-05-29T20:32:15.556148,2026-06-11T19:49:19.894301,,,,2026,2026
+yukon-liquor-corporation-special-order-liquor-price-lists,Yukon Liquor Corporation special order liquor price lists,48,data,yukon-liquor-corporation,2026-05-28T20:38:03.353427,2026-06-11T19:49:17.062529,,,,2026,2026
 2025-2026-respiratory-surveillance-reports,2025-26 Respiratory Surveillance Reports,19,information,health-and-social-services,2025-08-26T15:50:30.409197,2026-06-08T23:42:08.136296,,No,,2025,2026
 plans-and-reports-climate-change,Plans and Reports - Climate Change,35,information,environment,2020-07-08T15:34:14,2026-06-08T18:48:57.339112,,Yes,auditor_final_reports,2020,2026
 health-and-social-services-operational-policies,Health and Social Services operational policies,4,information,health-and-social-services,2025-04-30T14:08:06,2026-06-05T20:33:12.450148,,Yes,departmental_manuals_and_policy_statements,2025,2026

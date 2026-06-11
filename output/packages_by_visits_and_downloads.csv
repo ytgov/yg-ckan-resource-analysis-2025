@@ -1,42 +1,42 @@
 name,title,visits,visit_90_days,downloads,download_90_days,resources,type,organization_name,metadata_created,metadata_modified,year_created,year_modified
-ecole-whitehorse-elementary-school-project,École Whitehorse Elementary School project / Projet de remplacement de l’École élémentaire de Whitehorse,346,346,317,317,3,information,education,2025-09-05T17:38:13.469311,2026-06-04T20:10:34.749948,2025,2026
-school-calendars,School Calendars,217,389,165,300,1,information,education,2026-03-31T21:55:22.708501,2026-04-01T17:07:20.790446,2026,2026
+ecole-whitehorse-elementary-school-project,École Whitehorse Elementary School project / Projet de remplacement de l’École élémentaire de Whitehorse,349,349,319,319,3,information,education,2025-09-05T17:38:13.469311,2026-06-04T20:10:34.749948,2025,2026
+school-calendars,School Calendars,246,418,186,321,1,information,education,2026-03-31T21:55:22.708501,2026-04-01T17:07:20.790446,2026,2026
 hunting-permits,Hunting Permits,143,191,160,282,7,information,environment,2020-03-30T19:49:22,2026-04-15T16:00:31.619462,2020,2026
-yukon-liquor-corporation-wholesale-liquor-price-lists,Yukon Liquor Corporation Wholesale liquor price lists,98,98,93,93,47,data,yukon-liquor-corporation,2026-05-04T15:53:03.811585,2026-06-10T21:26:44.464000,2026,2026
+yukon-liquor-corporation-wholesale-liquor-price-lists,Yukon Liquor Corporation Wholesale liquor price lists,105,105,99,99,47,data,yukon-liquor-corporation,2026-05-04T15:53:03.811585,2026-06-11T19:49:26.717992,2026,2026
+yukon-liquor-corporation-retail-liquor-price-lists,Yukon Liquor Corporation retail liquor price lists,56,56,63,63,8,data,yukon-liquor-corporation,2026-05-29T20:32:15.556148,2026-06-11T19:49:19.894301,2026,2026
 first-nations-traditional-territories,First Nations Traditional Territories,53,122,56,128,12,information,executive-council-office,2020-03-30T19:52:52,2025-12-09T22:43:24.982936,2020,2025
-yukon-liquor-corporation-retail-liquor-price-lists,Yukon Liquor Corporation retail liquor price lists,50,50,56,56,8,data,yukon-liquor-corporation,2026-05-29T20:32:15.556148,2026-06-10T21:26:51.731880,2026,2026
-2025-2026-respiratory-surveillance-reports,2025-26 Respiratory Surveillance Reports,41,73,0,0,19,information,health-and-social-services,2025-08-26T15:50:30.409197,2026-06-08T23:42:08.136296,2025,2026
+2025-2026-respiratory-surveillance-reports,2025-26 Respiratory Surveillance Reports,43,74,0,0,19,information,health-and-social-services,2025-08-26T15:50:30.409197,2026-06-08T23:42:08.136296,2025,2026
 medical-travel,Medical travel,38,157,42,124,15,information,health-and-social-services,2020-10-29T14:05:46,2025-06-25T20:54:28,2020,2025
-2025-wildland-fire-management-bulletins,2025 Wildland fire management bulletins,30,35,2,2,94,information,community-services,2026-03-25T16:51:26.847084,2026-04-20T21:49:41.830018,2026,2026
-general-administration-manual-gam-volume-1,General Administration Manual (GAM): Volume 1,28,41,14,19,31,information,executive-council-office,2025-09-23T18:33:56.657304,2025-10-30T17:48:27.308471,2025,2025
+2025-wildland-fire-management-bulletins,2025 Wildland fire management bulletins,34,39,7,7,94,information,community-services,2026-03-25T16:51:26.847084,2026-04-20T21:49:41.830018,2026,2026
+general-administration-manual-gam-volume-1,General Administration Manual (GAM): Volume 1,32,45,21,26,31,information,executive-council-office,2025-09-23T18:33:56.657304,2025-10-30T17:48:27.308471,2025,2025
 yukon-land-titles-registry-yltr,Yukon Land Titles Registry (YLTR),25,60,11,28,15,information,justice,2021-11-18T09:35:40,2024-04-26T15:43:04,2021,2024
 parks-and-protected-areas,Parks and Protected Areas,25,62,8,25,15,information,environment,2020-03-30T19:49:22,2020-03-30T19:49:22,2020,2020
+general-administration-manual-volume-3,General Administration Manual (GAM): Volume 3,22,42,5,9,51,information,public-service-commission,2025-10-29T21:33:49.071480,2025-10-30T17:47:33.054600,2025,2025
 2025-fall-session-briefing-note-binders,2025 Fall Session - Briefing Note Binders,20,34,10,14,18,information,executive-council-office,2026-02-17T23:38:20.325723,2026-02-19T17:57:43.547529,2026,2026
-human-wildlife-conflict,Human-wildlife conflict,19,19,9,9,8,data,environment,2026-06-01T20:43:22.638129,2026-06-01T23:14:25.084366,2026,2026
+human-wildlife-conflict,Human-wildlife conflict,20,20,9,9,8,data,environment,2026-06-01T20:43:22.638129,2026-06-01T23:14:25.084366,2026,2026
 financial-administration-manual,Financial Administration Manual,18,35,17,35,11,information,finance,2024-09-26T09:07:27,2025-09-24T19:10:19.689052,2024,2025
-general-administration-manual-volume-3,General Administration Manual (GAM): Volume 3,18,38,5,9,51,information,public-service-commission,2025-10-29T21:33:49.071480,2025-10-30T17:47:33.054600,2025,2025
 the-whitehorse-copper-belt-an-annotated-geology-map,The Whitehorse Copper Belt - An annotated geology map,18,18,5,5,3,information,yukon-geological-survey,2011-04-04T03:04:28,2011-04-04T03:04:28,2011,2011
 water-wells,Water wells,18,39,0,1,5,data,geomatics-yukon,2019-10-08T19:08:59,2026-01-21T21:35:50.050822,2019,2026
+department-of-education-policies,Department of Education Policies,17,49,4,10,61,information,education,2025-04-30T12:39:59,2026-04-13T20:10:42.903475,2025,2026
 general-administration-manual-volume-2,General Administration Manual (GAM): Volume 2,16,38,9,17,26,information,highways-and-public-works,2024-11-21T16:39:09,2025-10-30T17:48:45.033526,2024,2025
 hunting-maps,Hunting maps,16,44,9,23,15,information,environment,2020-07-09T11:04:55,2020-07-09T11:04:55,2020,2020
 list-of-registered-yukon-societies,List of registered Yukon societies,15,67,11,45,2,data,community-services,2023-11-01T15:41:40,2025-08-07T20:18:53.647297,2023,2025
+inclusive-education-guidelines,Inclusive Education Guidelines,15,44,9,24,1,information,education,2026-03-26T18:11:57.875337,2026-03-30T22:01:41.887442,2026,2026
 outfitting-concessions,Outfitting Concessions,14,57,14,54,17,information,environment,2020-03-30T19:48:02,2020-03-30T19:48:02,2020,2020
-department-of-education-policies,Department of Education Policies,14,48,4,20,61,information,education,2025-04-30T12:39:59,2026-04-13T20:10:42.903475,2025,2026
+yukon-liquor-corporation-special-order-liquor-price-lists,Yukon Liquor Corporation special order liquor price lists,14,14,10,10,48,data,yukon-liquor-corporation,2026-05-28T20:38:03.353427,2026-06-11T19:49:17.062529,2026,2026
 morel-mushroom-areas,Morel Mushroom Areas,14,14,0,0,3,data,geomatics-yukon,2024-02-27T20:43:09,2024-04-05T16:28:20,2024,2024
 surficial-geology-map-index,Surficial Geology Map Index,14,23,0,0,3,data,geomatics-yukon,2023-05-29T22:33:00,2023-09-26T23:25:31,2023,2023
-yukon-liquor-corporation-special-order-liquor-price-lists,Yukon Liquor Corporation special order liquor price lists,13,13,8,8,48,data,yukon-liquor-corporation,2026-05-28T20:38:03.353427,2026-06-10T21:26:49.022598,2026,2026
-inclusive-education-guidelines,Inclusive Education Guidelines,12,41,5,20,1,information,education,2026-03-26T18:11:57.875337,2026-03-30T22:01:41.887442,2026,2026
+yukon-liquor-corporation-maximum-off-sales-liquor-price-lists,Yukon Liquor Corporation maximum off-sales liquor price lists,12,12,8,8,46,data,yukon-liquor-corporation,2026-05-28T20:36:54.176943,2026-06-11T19:49:23.398101,2026,2026
 registered-trapping-concessions,Registered Trapping Concessions,12,43,0,19,47,information,environment,2020-03-30T19:47:26,2020-03-30T19:47:26,2020,2020
 weight-restrictions-histories,Weight restrictions histories,11,70,11,76,8,information,highways-and-public-works,2021-02-02T00:00:00,2026-02-05T19:07:06.222707,2021,2026
-yukon-liquor-corporation-maximum-off-sales-liquor-price-lists,Yukon Liquor Corporation maximum off-sales liquor price lists,11,11,7,7,46,data,yukon-liquor-corporation,2026-05-28T20:36:54.176943,2026-06-10T21:26:41.117248,2026,2026
+health-and-social-services-operational-policies,Health and Social Services operational policies,11,11,0,0,4,information,health-and-social-services,2025-04-30T14:08:06,2026-06-05T20:33:12.450148,2025,2026
 highway-kilometre-posts,Highway Kilometre Posts,11,24,0,4,3,data,geomatics-yukon,2016-06-14T19:51:45,2021-01-03T21:55:51,2016,2021
+yukon-health-status-reports,Yukon Health Status Reports,10,72,7,53,11,information,health-and-social-services,2026-03-17T20:35:39.647260,2026-03-23T20:15:18.357452,2026,2026
 clinton-creek-mine-site-reports,Clinton Creek mine site reports,9,31,9,29,31,information,energy-mines-and-resources,2023-02-03T10:42:21,2023-10-05T12:05:15,2023,2023
 placer-gold-deposits-of-the-mayo-area-central-yukon,"Placer gold deposits of the Mayo area, central Yukon",9,9,4,4,4,information,yukon-geological-survey,2011-04-04T03:04:24,2011-04-04T03:04:24,2011,2011
 gravel-pits-25k,Gravel Pits - 25k,9,14,1,3,3,data,geomatics-yukon,2016-06-14T19:49:40,2021-01-03T21:55:06,2016,2021
-health-and-social-services-operational-policies,Health and Social Services operational policies,9,9,0,0,4,information,health-and-social-services,2025-04-30T14:08:06,2026-06-05T20:33:12.450148,2025,2026
 chief-medical-officer-of-health-and-population-and-public-health-reports,Chief Medical Officer of Health and Population and Public Health reports,9,18,0,0,10,information,health-and-social-services,2021-06-23T17:31:08,2026-05-12T18:53:39.296059,2021,2026
 fire-history,Fire history,9,29,0,1,3,data,geomatics-yukon,2016-06-01T21:26:30,2021-01-03T18:05:13,2016,2021
-yukon-health-status-reports,Yukon Health Status Reports,8,70,7,53,11,information,health-and-social-services,2026-03-17T20:35:39.647260,2026-03-23T20:15:18.357452,2026,2026
 disability-services-policies,Disability Services policies,8,8,0,0,22,information,health-and-social-services,2026-05-12T18:25:18.779698,2026-05-12T18:30:51.296288,2026,2026
 substance-use-surveillance-reports,Substance Use Surveillance Reports,8,22,0,0,6,information,health-and-social-services,2024-11-20T10:58:37,2026-03-06T22:05:12.566519,2024,2026
 ng911-municipal-boundary-whitehorse,NG911 Municipal Boundary - Whitehorse,8,17,0,1,3,data,geomatics-yukon,2022-10-13T18:33:42,2023-09-07T22:56:44,2022,2023
@@ -47,12 +47,14 @@ department-of-education-off-site-experiential-learning-policy,Department of Educ
 fetal-alcohol-spectrum-disorder-in-yukon-corrections-final-report,Fetal Alcohol Spectrum Disorder in Yukon Corrections,7,7,3,3,2,information,justice,2026-06-03T16:24:45.535767,2026-06-04T19:30:54.239670,2026,2026
 geology-of-whitehorse-alligator-lake-fenwick-creek-carcross-and-part-of-robinson-map-areas-105d,"Geology of Whitehorse, Alligator Lake, Fenwick Creek Carcross and Part of Robinson Map Areas (105D/11, 6, 3, 2 & 7)",7,7,1,1,6,information,yukon-geological-survey,2011-04-04T03:04:31,2011-04-04T03:04:31,2011,2011
 plans-and-reports-caribou,Plans and Reports - Caribou,7,16,0,0,7,information,environment,2020-07-08T16:03:54,2026-01-14T20:51:40.769528,2020,2026
+yukon-aerial-imagery,Yukon Aerial Imagery,7,10,0,0,3,data,geomatics-yukon,2025-05-28T22:01:19,2025-10-30T23:43:39.260025,2025,2025
 yukon-road-network,Yukon road network,7,20,0,1,3,data,geomatics-yukon,2021-12-14T15:52:43,2025-08-07T20:18:54.204870,2021,2025
+plexia-2-0,Plexia 2.0,7,12,0,0,0,pia-summaries,health-and-social-services,2025-02-13T11:56:29,2025-03-12T10:35:59,2025,2025
 first-nation-settlement-lands-250k,First Nation Settlement Lands - 250k,7,15,0,0,3,data,geomatics-yukon,2016-06-09T20:24:06,2021-01-03T20:47:12,2016,2021
-2025-spring-sitting-of-the-first-session-briefing-note-binders,2025 Spring Sitting of the First Session - Briefing Note Binders,6,24,2,7,19,information,executive-council-office,2025-06-13T10:13:13,2026-02-19T17:57:25.161813,2025,2026
 25-040,25-040,6,11,2,8,1,access-requests,health-and-social-services,2026-01-26T03:20:59.365285,2026-01-26T03:21:18.606449,2026,2026
+open-government-portal-metrics,Open government portal metrics,6,8,0,0,8,data,highways-and-public-works,2026-03-10T20:30:35.841138,2026-06-04T22:20:11.476619,2026,2026
+2025-spring-sitting-of-the-first-session-briefing-note-binders,2025 Spring Sitting of the First Session - Briefing Note Binders,6,24,0,5,19,information,executive-council-office,2025-06-13T10:13:13,2026-02-19T17:57:25.161813,2025,2026
 department-of-education-response-to-yukon-child-and-youth-advocate-office-reports,Department of Education response to Yukon Child and Youth Advocate Office reports,6,13,0,0,3,information,education,2026-01-14T16:24:58.854019,2026-01-14T16:50:49.156533,2026,2026
-yukon-aerial-imagery,Yukon Aerial Imagery,6,10,0,0,3,data,geomatics-yukon,2025-05-28T22:01:19,2025-10-30T23:43:39.260025,2025,2025
 yukon-snow-survey-network,Yukon Snow Survey Network,6,37,0,0,2,data,environment,2018-04-10T09:13:25,2025-10-15T18:19:04.956012,2018,2025
 land-dispositions,Land Dispositions,6,12,0,0,3,data,geomatics-yukon,2016-06-14T17:47:02,2021-01-03T20:54:18,2016,2021
 yukon-communities,Yukon Communities,6,11,0,0,3,data,geomatics-yukon,2016-06-14T20:30:17,2021-01-03T18:16:14,2016,2021
@@ -63,12 +65,13 @@ legislative-oversight-committee,Legislative Oversight Committee,5,5,5,5,1,inform
 yukon-bathymetry-maps-and-data,Yukon Bathymetry Maps and Data,5,12,4,4,1,information,environment,2023-03-07T13:10:27,2023-03-08T16:49:28,2023,2023
 31-privacy-breach-reporting-form-for-employees-mpb,31 Privacy Breach Reporting Form for Employees MPB,5,6,2,2,1,information,atipp-office,2021-03-05T15:02:16,2022-01-12T16:53:27,2021,2022
 yukon-placer-mining-2024-development-and-exploration-overview,Yukon placer mining 2024 development and exploration overview,5,13,1,3,2,information,yukon-geological-survey,2025-01-18T01:01:14,2025-01-20T07:01:42,2025,2025
-open-government-portal-metrics,Open government portal metrics,5,9,0,0,8,data,highways-and-public-works,2026-03-10T20:30:35.841138,2026-06-04T22:20:11.476619,2026,2026
+annual-tourism-indicator-reports,Annual tourism indicator reports,5,6,0,0,10,information,economic-development-tourism-and-culture,2025-03-21T16:07:08,2026-06-04T22:40:44.593445,2025,2026
 plans-and-reports-moose,Plans and Reports - Moose,5,22,0,3,38,information,environment,2020-07-08T17:38:35,2026-03-25T17:54:23.703960,2020,2026
+25-0114,25-0114,5,9,0,2,2,access-requests,energy-mines-and-resources,2026-01-12T03:42:55.400730,2026-03-18T17:46:47.279544,2026,2026
+news-releases-2021,News releases 2021,5,14,0,0,495,information,executive-council-office,2026-02-25T18:27:40.900624,2026-02-25T20:26:50.955645,2026,2026
 geochronology-1,Geochronology,5,7,0,0,4,data,yukon-geological-survey,2018-09-04T03:09:59,2025-07-11T09:07:20,2018,2025
 mineral-occurrences,Mineral Occurrences,5,5,0,0,5,data,yukon-geological-survey,2019-07-15T02:07:40,2025-07-11T09:07:06,2019,2025
 yukon-corrections-adult-custody-policy-manual-for-the-whitehorse-correctional-centre-wcc,Yukon Corrections: Adult Custody Policy Manual for the Whitehorse Correctional Centre (WCC),5,29,0,22,24,information,justice,2020-08-21T15:13:53,2025-05-24T03:50:12,2020,2025
-plexia-2-0,Plexia 2.0,5,11,0,0,0,pia-summaries,health-and-social-services,2025-02-13T11:56:29,2025-03-12T10:35:59,2025,2025
 water-well-capture-zones,Water well capture zones,5,5,0,0,3,data,geomatics-yukon,2019-10-08T19:15:08,2024-12-23T17:15:03,2019,2024
 yukon-active-living-strategy,Yukon Active Living Strategy,5,5,0,0,1,information,community-services,2022-01-24T10:28:42,2022-01-24T10:31:04,2022,2022
 bioclimate-zones-and-subzones,Bioclimate zones and subzones,5,15,0,0,3,data,geomatics-yukon,2020-04-15T23:03:29,2021-09-20T17:46:00,2020,2021
@@ -81,12 +84,9 @@ geology-and-bedrock-mapping-updates-at-the-coffee-project-gold-deposit-implicati
 active-transportation-design-guide-for-yukon-highways,Active Transportation Design Guide for Yukon Highways,4,16,2,10,1,information,highways-and-public-works,2025-04-10T09:49:49,2025-04-10T09:52:14,2025,2025
 southern-lakes-flood-hazard-maps,Southern Lakes flood hazard maps,4,4,1,1,32,data,geomatics-yukon,2024-12-12T09:55:51,2024-12-12T09:58:34,2024,2024
 plans-and-reports-climate-change,Plans and Reports - Climate Change,4,11,0,0,35,information,environment,2020-07-08T15:34:14,2026-06-08T18:48:57.339112,2020,2026
-annual-tourism-indicator-reports,Annual tourism indicator reports,4,5,0,0,10,information,economic-development-tourism-and-culture,2025-03-21T16:07:08,2026-06-04T22:40:44.593445,2025,2026
-yukon-tourism-indicators,Yukon tourism indicators,4,14,0,10,21,data,economic-development-tourism-and-culture,2025-03-21T16:17:31,2026-06-04T22:40:42.706586,2025,2026
+yukon-tourism-indicators,Yukon tourism indicators,4,13,0,9,21,data,economic-development-tourism-and-culture,2025-03-21T16:17:31,2026-06-04T22:40:42.706586,2025,2026
 cancer-surveillance-reports,Cancer Surveillance Reports,4,4,0,0,4,information,health-and-social-services,2026-04-16T18:54:08.366263,2026-04-23T23:16:06.982527,2026,2026
 caribou-herd-ranges-250k,Caribou Herd Ranges - 250k,4,8,0,0,3,data,geomatics-yukon,2026-03-09T18:27:09.354624,2026-04-09T16:51:32.882237,2026,2026
-25-0114,25-0114,4,8,0,2,2,access-requests,energy-mines-and-resources,2026-01-12T03:42:55.400730,2026-03-18T17:46:47.279544,2026,2026
-news-releases-2021,News releases 2021,4,13,0,0,495,information,executive-council-office,2026-02-25T18:27:40.900624,2026-02-25T20:26:50.955645,2026,2026
 plans-and-reports-fisheries-research,​Plans and Reports - Fisheries Research,4,14,0,0,13,information,environment,2020-07-08T15:39:51,2026-01-26T21:03:09.964912,2020,2026
 surface-disturbance-linear-features,Surface disturbance linear features,4,8,0,2,3,data,geomatics-yukon,2022-10-11T19:27:28,2025-07-14T17:39:06,2022,2025
 historical-covid-19-dashboard-data,Historical COVID-19 Dashboard Data,4,9,0,0,10,information,health-and-social-services,2022-11-10T12:58:16,2025-06-25T20:53:42,2022,2025
@@ -128,7 +128,7 @@ wex-fuel-card-system,WEX Fuel card system,2,2,0,0,0,pia-summaries,highways-and-p
 yukon-proof-of-vaccination-credential-addendum,Yukon Proof of Vaccination Credential Addendum,2,2,0,0,0,pia-summaries,health-and-social-services,2026-03-31T22:35:04.076047,2026-04-10T21:25:46.730725,2026,2026
 complaint-resolution-mechanism-for-french-language-services,Complaint Resolution Mechanism for French-language services,2,2,0,0,0,pia-summaries,french-language-services-directorate,2026-04-01T19:51:36.370787,2026-04-01T19:51:36.737990,2026,2026
 25-140,25-140,2,2,0,0,2,access-requests,highways-and-public-works,2026-03-27T03:24:07.694650,2026-03-27T03:25:04.791198,2026,2026
-25-0144,25-0144,2,4,0,0,2,access-requests,highways-and-public-works,2026-01-17T00:05:23.983641,2026-01-17T00:06:00.216150,2026,2026
+25-0144,25-0144,2,4,0,4,2,access-requests,highways-and-public-works,2026-01-17T00:05:23.983641,2026-01-17T00:06:00.216150,2026,2026
 social-pinpoint,Social Pinpoint,2,2,0,0,0,pia-summaries,highways-and-public-works,2025-12-31T21:17:41.314325,2025-12-31T21:17:41.691403,2025,2025
 heidi-health-medical-scribe-solution,Heidi Health Medical Scribe Solution,2,2,0,0,0,pia-summaries,health-and-social-services,2025-08-27T05:33:19.508159,2025-08-27T05:33:19.935286,2025,2025
 placer-claims-50k,Placer claims - 50k,2,10,0,2,3,data,geomatics-yukon,2016-06-15T17:58:12,2025-07-14T18:37:51,2016,2025
@@ -448,13 +448,13 @@ geotechnical-report-line,Geotechnical report line,0,3,0,0,3,data,geomatics-yukon
 air-photo-locations-1961-to-1970,Air photo locations 1961 to 1970,0,0,0,0,3,data,geomatics-yukon,2026-03-09T18:26:51.680211,2026-04-09T16:53:06.347857,2026,2026
 air-photo-locations-1946-to-1950,Air photo locations 1946 to 1950,0,0,0,0,3,data,geomatics-yukon,2026-03-09T18:26:53.859848,2026-04-09T16:52:54.419974,2026,2026
 oil-and-gas-wells-50k,Oil and Gas Wells - 50k,0,3,0,0,3,data,geomatics-yukon,2026-03-09T18:26:56.220591,2026-04-09T16:52:42.772880,2026,2026
-yukon-electoral-districts,Yukon Electoral Districts,0,4,0,0,3,data,geomatics-yukon,2026-03-09T18:26:58.655472,2026-04-09T16:52:26.524214,2026,2026
-building-footprints,Building Footprints,0,4,0,0,3,data,geomatics-yukon,2026-03-09T18:27:01.120689,2026-04-09T16:52:10.688364,2026,2026
-yukon-electoral-polling-divisions,Yukon Electoral Polling Divisions,0,7,0,0,3,data,geomatics-yukon,2026-03-09T18:27:04.664631,2026-04-09T16:51:58.518506,2026,2026
-rock-properties,Rock Properties,0,6,0,0,3,data,geomatics-yukon,2026-03-09T18:27:07.027000,2026-04-09T16:51:46.001644,2026,2026
+yukon-electoral-districts,Yukon Electoral Districts,0,3,0,0,3,data,geomatics-yukon,2026-03-09T18:26:58.655472,2026-04-09T16:52:26.524214,2026,2026
+building-footprints,Building Footprints,0,3,0,0,3,data,geomatics-yukon,2026-03-09T18:27:01.120689,2026-04-09T16:52:10.688364,2026,2026
+yukon-electoral-polling-divisions,Yukon Electoral Polling Divisions,0,6,0,0,3,data,geomatics-yukon,2026-03-09T18:27:04.664631,2026-04-09T16:51:58.518506,2026,2026
+rock-properties,Rock Properties,0,5,0,0,3,data,geomatics-yukon,2026-03-09T18:27:07.027000,2026-04-09T16:51:46.001644,2026,2026
 yukon-and-adjoining-land-mass,Yukon and Adjoining Land Mass,0,2,0,0,3,data,geomatics-yukon,2026-03-09T18:27:16.479359,2026-04-09T16:51:08.943108,2026,2026
 utilities-line-250k,Utilities Line - 250k,0,0,0,0,3,data,geomatics-yukon,2026-03-09T18:27:18.823823,2026-04-09T16:50:56.731878,2026,2026
-community-road-names,Community Road Names,0,7,0,0,3,data,geomatics-yukon,2026-03-09T18:27:21.056166,2026-04-09T16:50:44.703129,2026,2026
+community-road-names,Community Road Names,0,6,0,0,3,data,geomatics-yukon,2026-03-09T18:27:21.056166,2026-04-09T16:50:44.703129,2026,2026
 a-celebration-of-swans-posters,A Celebration of Swans posters,0,0,0,0,26,information,environment,2026-03-27T17:54:16.187399,2026-04-02T18:29:57.744269,2026,2026
 independent-external-review,Independent External Review - Department of Education,0,0,0,0,2,information,education,2026-03-26T21:31:07.035890,2026-03-26T21:33:33.141051,2026,2026
 department-of-education-independent-external-review,Ministère de l’Éducation - Examen externe indépendant,0,57,0,63,2,information,education,2026-03-18T16:49:57.077819,2026-03-26T21:23:56.431104,2026,2026
@@ -468,7 +468,7 @@ atipp-section-68-and-69-guidance,ATIPP Section 68 and 69 Guidance,0,0,0,0,1,info
 2025-26-operation-and-maintenance-and-capital-estimates,2025–26 Operation and maintenance and capital estimates,0,0,0,0,36,information,finance,2026-03-05T16:20:06.811104,2026-03-05T16:37:49.867363,2026,2026
 2025-26-additional-information-and-statistics,2025–26 Additional information and statistics,0,0,0,0,8,information,finance,2026-03-05T16:14:49.801420,2026-03-05T16:17:18.339699,2026,2026
 2025-26-budget,2025–26 Budget,0,9,0,3,7,information,finance,2026-03-05T15:59:32.852106,2026-03-05T16:05:19.507165,2026,2026
-online-frontcountry-campsite-reservation-service-post-camping-surveys,Online frontcountry campsite reservation service post-camping surveys,0,5,0,0,2,information,environment,2026-03-04T16:57:54.290997,2026-03-04T17:23:44.851162,2026,2026
+online-frontcountry-campsite-reservation-service-post-camping-surveys,Online frontcountry campsite reservation service post-camping surveys,0,4,0,0,2,information,environment,2026-03-04T16:57:54.290997,2026-03-04T17:23:44.851162,2026,2026
 woodland-caribou-level-3-wildlife-key-area-250k,Woodland Caribou - Level 3 - Wildlife Key Area - 250k,0,0,0,0,3,data,geomatics-yukon,2016-06-10T19:52:02,2026-02-26T21:52:54.585001,2016,2026
 woodland-caribou-level-2-wildlife-key-area-250k,Woodland Caribou - Level 2 - Wildlife Key Area - 250k,0,0,0,0,3,data,geomatics-yukon,2016-06-10T19:49:40,2026-02-26T21:52:53.235657,2016,2026
 wood-bison-wildlife-key-area-250k,Wood Bison - Wildlife Key Area - 250k,0,0,0,0,3,data,geomatics-yukon,2016-06-10T19:46:12,2026-02-26T21:52:51.912460,2016,2026
@@ -507,7 +507,7 @@ communiques-de-presse-2020,Communiqués de presse 2020,0,0,0,0,394,information,e
 communiques-de-presse-2019,Communiqués de presse 2019,0,0,0,0,285,information,executive-council-office,2026-02-25T19:02:09.304706,2026-02-25T20:20:24.263110,2026,2026
 communiques-de-presse-2018,Communiqués de presse 2018,0,0,0,0,274,information,executive-council-office,2026-02-25T18:53:04.277907,2026-02-25T20:18:28.231585,2026,2026
 news-releases-2016,News releases 2016,0,0,0,0,360,information,executive-council-office,2020-03-27T16:40:03,2026-02-25T17:49:16.696917,2020,2026
-yukon-liquor-board-bylaws,Yukon Liquor Board Bylaws,0,13,0,12,13,information,yukon-liquor-corporation,2025-12-18T15:31:57.001993,2026-02-24T18:01:02.407141,2025,2026
+yukon-liquor-board-bylaws,Yukon Liquor Board Bylaws,0,12,0,11,13,information,yukon-liquor-corporation,2025-12-18T15:31:57.001993,2026-02-24T18:01:02.407141,2025,2026
 private-members-caucus,Private Members' Caucus,0,0,0,0,1,information,executive-council-office,2026-02-23T23:09:59.573056,2026-02-23T23:26:03.681226,2026,2026
 yukon-whole-rock-pb-nd-hf-sr-and-feldspar-pb-isotope-compilation,Yukon Whole Rock Pb-Nd-Hf-Sr and Feldspar Pb Isotope Compilation,0,0,0,0,3,data,geomatics-yukon,2022-11-12T17:59:17,2026-02-11T17:27:31.006271,2022,2026
 yukon-radon-reports,Yukon radon reports,0,18,0,0,2,information,health-and-social-services,2026-02-04T16:28:18.858044,2026-02-04T16:31:36.255013,2026,2026
@@ -527,7 +527,7 @@ government-of-yukon-and-yukon-university-accountability-framework,Government of 
 25-0103,25-0103,0,1,0,0,1,access-requests,community-services,2026-01-14T03:20:36.633908,2026-01-14T03:21:28.484922,2026,2026
 25-088,25-088,0,1,0,0,1,access-requests,energy-mines-and-resources,2026-01-14T03:16:46.914044,2026-01-14T03:18:40.749693,2026,2026
 25-0145,25-0145,0,0,0,0,2,access-requests,health-and-social-services,2026-01-14T03:12:18.374683,2026-01-14T03:13:19.353756,2026,2026
-25-097,25-097,0,2,0,0,2,access-requests,energy-mines-and-resources,2026-01-12T03:38:02.395312,2026-01-12T03:39:11.250409,2026,2026
+25-097,25-097,0,2,0,5,2,access-requests,energy-mines-and-resources,2026-01-12T03:38:02.395312,2026-01-12T03:39:11.250409,2026,2026
 25-086,25-086,0,0,0,0,2,access-requests,community-services,2026-01-09T00:29:56.696438,2026-01-09T00:30:48.096982,2026,2026
 25-085,25-085,0,0,0,0,2,access-requests,community-services,2026-01-08T23:06:21.186850,2026-01-08T23:07:19.492737,2026,2026
 quitpath-website,Quitpath website,0,1,0,0,0,pia-summaries,health-and-social-services,2026-01-08T18:32:35.552802,2026-01-08T18:32:35.835880,2026,2026
@@ -673,7 +673,7 @@ wildlife-viewing-newsletter,Wildlife Viewing Newsletter,0,0,0,0,0,pia-summaries,
 electric-vehicles-charging-stations,Electric Vehicles Charging Stations,0,0,0,0,0,pia-summaries,energy-mines-and-resources,2025-03-06T08:53:54,2025-03-14T15:44:55,2025,2025
 mining-sector-greenhouse-gas-reduction-targets,Mining Sector Greenhouse Gas Reduction Targets,0,0,0,0,0,pia-summaries,energy-mines-and-resources,2025-02-26T12:21:12,2025-03-14T15:15:02,2025,2025
 smartsheet-project-management-platform,Smartsheet Project Management Platform,0,0,0,0,0,pia-summaries,highways-and-public-works,2025-03-14T14:45:06,2025-03-14T14:45:06,2025,2025
-2024-25-budget,2024–25 Budget,0,0,0,0,6,information,finance,2025-03-07T10:18:09,2025-03-11T07:09:47,2025,2025
+2024-25-budget,2024–25 Budget,0,0,0,3,6,information,finance,2025-03-07T10:18:09,2025-03-11T07:09:47,2025,2025
 2024-25-additional-information-and-statistics,2024–25 Additional information and statistics,0,0,0,0,8,information,finance,2025-03-07T11:38:42,2025-03-07T11:44:49,2025,2025
 2024-25-supplementary-estimates-no-2,2024–25 Supplementary estimates no. 2,0,0,0,0,24,information,finance,2025-03-07T11:21:00,2025-03-07T11:36:19,2025,2025
 2024-25-supplementary-estimates-no-1,2024–25 Supplementary estimates no. 1,0,0,0,0,23,information,finance,2025-03-07T10:43:08,2025-03-07T11:06:10,2025,2025
