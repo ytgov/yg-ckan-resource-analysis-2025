@@ -105,7 +105,13 @@ packages_by_scoring_evaluation_criteria <- output |>
     everything()
   ) 
 
-resources_by_scoring_evaluation_criteria <- output_resources
+resources_by_scoring_evaluation_criteria <- output_resources |> 
+  mutate(
+    resources_description = case_when(
+      str_length(resources_description) >= 200L ~ str_c(str_sub(resources_description, start = 1L, end = 200L), "…"),
+      .default = resources_description
+    )
+  )
 
 # Write files out to CSV --------------------------------------------------
 

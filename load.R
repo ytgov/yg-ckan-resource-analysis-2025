@@ -153,6 +153,7 @@ output_resources <- output_resources |>
     resources_url_type,
     name,
     title,
+    type,
     organization_name,
     metadata_created,
     metadata_modified,
